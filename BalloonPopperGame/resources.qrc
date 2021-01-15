@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>RedTank.png</file>
+        <file>PinkTank.png</file>
+        <file>CyanTank.png</file>
+        <file>YellowTank.png</file>
+        <file>GreenTank.png</file>
+        <file>BlueTank.png</file>
+        <file>BlackTank.png</file>
+        <file>PurpleTank.png</file>
+        <file>BlackPellet.png</file>
+        <file>BluePellet.png</file>
+        <file>CyanPellet.png</file>
+        <file>GreenPellet.png</file>
+        <file>PinkPellet.png</file>
+        <file>RedPellet.png</file>
+        <file>PurplePellet.png</file>
+        <file>YellowPellet.png</file>
+        <file>RedBalloon.png</file>
+        <file>BlackBalloon.png</file>
+        <file>BlueBalloon.png</file>
+        <file>CyanBalloon.png</file>
+        <file>GreenBalloon.png</file>
+        <file>PinkBalloon.png</file>
+        <file>PurpleBalloon.png</file>
+        <file>YellowBalloon.png</file>
+    </qresource>
+</RCC>
